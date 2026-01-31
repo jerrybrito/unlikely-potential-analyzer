@@ -1,0 +1,2 @@
+# Requires: deprecated-delay
+# (Not available on PyPI)
